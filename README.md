@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ir.%20Prayitno,%20S.ST.,%20M.T.,%20Ph.D.&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AIoT%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Federated%20Learning%20%E2%80%A2%20AI%20in%20Education&descAlignY=58&descSize=17" alt="Prayitno header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Assoc.%20Prof.%20Ir.%20Prayitno,%20S.ST.,%20M.T.,%20Ph.D.&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20AIoT%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20AI%20in%20Education&descAlignY=58&descSize=17" alt="Prayitno header" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Lecturer & Researcher · Electrical Engineering · Politeknik Negeri Semarang</b><br/>
+  <b>Associate Professor, Department of Electrical Engineering, Politeknik Negeri Semarang</b><br/>👁️ Computer Vision Researcher<br/>
   <i>“Teknologi cerdas untuk lingkungan yang sehat dan pendidikan yang terbuka.”</i>
 </p>
 
@@ -12,25 +12,28 @@
   <a href="mailto:prayitno@polines.ac.id"><img src="https://img.shields.io/badge/Email-prayitno%40polines.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.polines.ac.id"><img src="https://img.shields.io/badge/Polines-Electrical%20Engineering-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Polines"/></a>
   <a href="https://www.seamolec.org"><img src="https://img.shields.io/badge/SEAMOLEC-Deputy%20Director%20for%20Program-0E7490?style=for-the-badge" alt="SEAMOLEC"/></a>
-  <!-- TODO: add Google Scholar / Scopus / SINTA badges once the exact profile URLs are confirmed -->
+  <br/>
+  <a href="https://scholar.google.com/citations?user=VNoypeoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-VNoypeoAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57219541919"><img src="https://img.shields.io/badge/Scopus-57219541919-E9711C?style=for-the-badge&logo=elsevier&logoColor=white" alt="Scopus"/></a>
+  <a href="https://sinta.kemdiktisaintek.go.id/authors/profile/8078"><img src="https://img.shields.io/badge/SINTA-8078-0B5394?style=for-the-badge" alt="SINTA"/></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am **Prayitno** (*Bos Pray*), a lecturer in the **Department of Electrical Engineering, Politeknik Negeri Semarang (Polines)**, Indonesia. I also serve as **Deputy Director for Program at SEAMOLEC** (SEAMEO Regional Open Learning Centre), and I am affiliated with the **Department of Electrical Engineering, Universitas Muhammadiyah Yogyakarta (UMY)** through the UMY Research Fellowship, working with Karisma Trinanda Putra.
+I am **Assoc. Prof. Prayitno** (*Bos Pray*), **Associate Professor, Department of Electrical Engineering, Politeknik Negeri Semarang (Polines)**, Indonesia. My main research focus is **Computer Vision**: medical imaging, classroom analytics, robust object detection, and efficient vision transformers. I also serve as **Deputy Director for Program at SEAMOLEC** (SEAMEO Regional Open Learning Centre), and I am affiliated with the **Department of Electrical Engineering, Universitas Muhammadiyah Yogyakarta (UMY)** through the UMY Research Fellowship, working with Karisma Trinanda Putra.
 
-My work sits where **artificial intelligence meets the physical world and the classroom**: trustworthy AI on low-power edge devices, privacy-preserving learning across distributed sensors, and AI that makes education more open and equitable across Southeast Asia.
+Beyond vision, my work sits where **artificial intelligence meets the physical world and the classroom**: trustworthy AI on low-power edge devices, privacy-preserving learning across distributed sensors, and AI that makes education more open and equitable across Southeast Asia.
 
 ## 🔬 Research Focus
 
 | Area | Themes |
 |---|---|
+| 👁️ **⭐ Computer Vision — main focus** | **Medical imaging · classroom analytics & education · object detection (YOLO, livestock in landfills) · vision transformers (MoNetViT)** |
 | 🌐 **AIoT & Edge AI** | On-device inference, low-power sensing, open hardware |
 | 🔒 **Federated & Continual Learning** | Privacy-preserving, drift-aware learning at the edge |
 | 🌫️ **Environmental Intelligence** | Air-quality prediction, landfill monitoring, occupational safety (AI + IoT at landfill sites) |
-| 👁️ **Computer Vision** | Detection in harsh environments, healthcare and education applications |
 | 🧠 **Multimodal LLMs** | Lightweight LLMs, automated essay scoring, retrieval |
 | 🎓 **AI in Education** | Learning analytics, explainable AI, open & distance learning |
 
@@ -50,6 +53,16 @@ My work sits where **artificial intelligence meets the physical world and the cl
 - 🏫 [`visi-komputer-pendidikan`](https://github.com/kang-prayit/visi-komputer-pendidikan) — computer vision for education
 - 📘 [`buku_ai_pendidikan`](https://github.com/kang-prayit/buku_ai_pendidikan) — AI in education book materials
 - 🗂️ [`scitrack-kanban`](https://github.com/kang-prayit/scitrack-kanban) — research task tracking
+
+## 📖 Selected Books
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://github.com/kang-prayit/visi-komputer-kesehatan"><img src="https://raw.githubusercontent.com/kang-prayit/visi-komputer-kesehatan/main/docs/gambar/sampul.jpg" width="180" alt="Visi Komputer untuk Kesehatan"/></a><br/><sub><b>Visi Komputer untuk Kesehatan: Klasifikasi, Regresi, Deteksi, dan Segmentasi Citra Medis dengan Python</b></sub><br/><a href="https://github.com/kang-prayit/visi-komputer-kesehatan">Code repo</a></td>
+    <td align="center" width="33%"><a href="https://github.com/kang-prayit/buku_ai_pendidikan"><img src="https://raw.githubusercontent.com/kang-prayit/buku_ai_pendidikan/main/docs/gambar/sampul.jpg" width="180" alt="Kecerdasan Buatan untuk Pendidikan"/></a><br/><sub><b>Kecerdasan Buatan untuk Pendidikan: Prediksi, Analitik Pembelajaran, dan Penilaian Otomatis dengan Python</b></sub><br/><a href="https://github.com/kang-prayit/buku_ai_pendidikan">Code repo</a></td>
+    <td align="center" width="33%"><a href="https://github.com/kang-prayit/visi-komputer-pendidikan">📘</a><br/><sub><b>Visi Komputer untuk Pendidikan: Analitik Kelas, Integritas Ujian, dan Pengenalan Tulisan Tangan dengan Python</b></sub><br/><a href="https://github.com/kang-prayit/visi-komputer-pendidikan">Code repo</a><!-- TODO: add cover once a sampul image exists in this repo --></td>
+  </tr>
+</table>
 
 ## 📚 Selected Publications
 
@@ -86,7 +99,7 @@ My work sits where **artificial intelligence meets the physical world and the cl
 
 I welcome partners who want to turn AI research into real-world impact. Let's talk if you are interested in:
 
-- 🔬 **Research collaboration** — AIoT, edge AI, federated/continual learning, environmental monitoring
+- 🔬 **Research collaboration** — computer vision, AIoT, edge AI, federated/continual learning, environmental monitoring
 - 🎓 **Student supervision & exchange** — undergraduate, master's, and doctoral projects, internships
 - 💰 **Joint grants & proposals** — national, regional (SEAMEO), and international funding schemes
 - 🏫 **AI-in-education partnerships** — open learning, teacher capacity building, learning analytics
@@ -94,6 +107,8 @@ I welcome partners who want to turn AI research into real-world impact. Let's ta
 <p align="center">
   <a href="mailto:prayitno@polines.ac.id?subject=Research%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/✉️%20Start%20a%20conversation-prayitno%40polines.ac.id-D14836?style=for-the-badge" alt="Email me"/></a>
   <a href="https://orcid.org/0000-0002-4794-2957"><img src="https://img.shields.io/badge/View%20my%20research-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://scholar.google.com/citations?user=VNoypeoAAAAJ"><img src="https://img.shields.io/badge/Citations-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57219541919"><img src="https://img.shields.io/badge/Profile-Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white" alt="Scopus"/></a>
 </p>
 
 <p align="center"><i>Mari berkolaborasi — membangun AI yang bermanfaat untuk Indonesia dan Asia Tenggara.</i></p>
