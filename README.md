@@ -80,13 +80,6 @@ My work sits where **artificial intelligence meets the physical world and the cl
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kang-prayit&show_icons=true&hide_border=true&bg_color=00000000&title_color=2c7da0&icon_color=2c7da0&text_color=7f8c8d" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang-prayit&layout=compact&hide_border=true&bg_color=00000000&title_color=2c7da0&text_color=7f8c8d" alt="Top languages"/>
-</p>
-
 ---
 
 ## 🤝 Let's Collaborate
